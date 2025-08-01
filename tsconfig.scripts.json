@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "CommonJS",
+    "esModuleInterop": true,
+    "outDir": "scripts_build",
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "include": ["scripts/deleteUsers.ts"]
+}
